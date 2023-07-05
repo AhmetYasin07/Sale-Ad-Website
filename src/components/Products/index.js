@@ -110,7 +110,7 @@ const Products = ({ heading, data }) => {
                 </ProductDesc>
                 <ProductPrice>{product.price}</ProductPrice>
 
-                <ProductButton href='https://ty.gl/hcnos15'>
+                <ProductButton href=''>
                   <span className='buy-icon'>
                     <FaShoppingCart />
                   </span>
